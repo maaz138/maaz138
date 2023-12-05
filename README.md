@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maaz138
-- 👀 I’m interested in development
-- 🌱 I’m currently learning frontend(react)
-- 💞️ I’m looking to collaborate on react projects
+- 👀 I’m interested in full-stack development
+- 🌱 I’m currently learning MERN stack
+- 💞️ I’m looking to collaborate on MERN projects
 - 📫 How to reach me maazhassan440@gmail.com
 
 <!---
