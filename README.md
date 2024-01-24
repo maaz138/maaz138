@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maaz Hassan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **maazhassan.dev@gmail.com**
 
